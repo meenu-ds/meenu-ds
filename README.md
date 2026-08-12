@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Sales analysis**
 
-- 🌱 I'm currently learning **Python project**
+- 🌱 I'm currently learning **Advanced Python **
 
 - 💬 Ask me about **Data science and analytics**
 
